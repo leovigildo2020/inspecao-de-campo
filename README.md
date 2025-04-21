@@ -1,2 +1,2 @@
-# inspecao-de-campo
-Aplicativo offline para vistorias ambientais
+# Inspeção de Campo
+Aplicativo offline para inspeções e vistorias ambientais em campo.
